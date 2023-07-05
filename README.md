@@ -13,9 +13,9 @@ I am a results-driven Full-Stack Web Developer with a passion for creating cutti
 </div>
 
 ## Skills
-- Languages: JavaScript, HTML5, CSS.
-- Frameworks & Technologies: React.js, Angular, Next.js, Redux, RxJS, SCSS, Typescript, Node.js, NestJS, REST API, GraphQL, ORM (typeORM),Docker, K8S, JWT, Git.
-- Databases: SQL (PostgreSQL), NoSQL (MongoDB).
+* Languages: JavaScript, HTML5, CSS.
+* Frameworks & Technologies: React.js, Angular, Next.js, Redux, RxJS, SCSS, Typescript, Storybook, Node.js, NestJS, REST API, GraphQL, ORM (typeORM), Docker, Microservices , K8S, JWT, Git.
+* Databases: SQL (PostgreSQL), NoSQL (MongoDB)
 
 Development and implementation new design patterns, including Custom Hooks, Higher Order Components (HOCs), Compound Components, Control props etc.
 
