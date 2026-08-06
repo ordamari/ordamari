@@ -6,7 +6,7 @@ Full Stack Developer
 
 Full Stack Developer with 4.5 years of experience in React, TypeScript, and GraphQL. Builds production features on complex, metadata-driven enterprise platforms — from fund accounting reconciliation to micro-frontend banking systems. Comfortable owning frontend delivery end to end on cross-functional squads, including E2E quality and platform-level UI infrastructure.
 
-* 🌍  I'm based in Nes-Ziona
+* 🌍  I'm based in Holon
 * 🖥️  See my portfolio at [3D Portfolio](http://ordamari.github.io/Portfolio/)
 * ✉️  You can contact me at [ordamari971@gmail.com](mailto:ordamari971@gmail.com)
 * 💼  Currently working at **FundGuard** as a Frontend Developer
